@@ -1,0 +1,1 @@
+Crear un archivo denominado fichero1.txt y añadirle texto.
