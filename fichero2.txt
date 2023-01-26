@@ -1,1 +1,2 @@
 Crear un nuevo archivo denominado fichero2.txt y añadirle texto.
+En la rama nueva_rama, cambiar el contenido de fichero2.txt y volver a mergearlo a master
