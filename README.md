@@ -1,0 +1,1 @@
+los comandos utilizados en el ejercicio
